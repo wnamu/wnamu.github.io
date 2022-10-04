@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "RETRO NAMU LOG"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Gourmet"
+name                     : "Gourmetraveller"
 description              : "Retro Namu Log"
 url                      : "https://wnamu.github.io"
 baseurl                  : 
@@ -105,10 +105,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Gourmetraveller"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "Seoul, Korea"
   email            :
   links:
     - label: "Email"
