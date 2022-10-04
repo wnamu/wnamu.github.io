@@ -20,3 +20,7 @@
 
 ## Singapore
 - [W Singapore Sentosa Cove - Marvelous Suite (2017)](https://blog.naver.com/w_namu/222814614805)
+
+## Taipei
+- [Courtyard Taipei - Executive Double (2017)](https://blog.naver.com/w_namu/222412074679)
+- [Courtyard Taipei - Executive King (2017)](https://blog.naver.com/w_namu/222403126507)
