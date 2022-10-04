@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "RETRO NAMU LOG"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Gourmet"
 description              : "Retro Namu Log"
 url                      : "https://wnamu.github.io"
 baseurl                  : 
