@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wnamu.github.io/sitemap.xml
