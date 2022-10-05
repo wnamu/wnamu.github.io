@@ -2,9 +2,11 @@
 
 - [W 서울 호텔 나무 (2012)](https://blog.naver.com/w_namu/222703385567)
 - [W 서울 호텔 키친 (2012)](https://blog.naver.com/w_namu/222723216764)
+- [강남구청 앙꼬 (2021)](https://blog.naver.com/w_namu/222798100625)
 - [강남역/신논현역 강남반점 (2022)](https://blog.naver.com/w_namu/222819579944)
 - [상암/DMC 김치도가 (2021)](https://blog.naver.com/w_namu/222564595571)
 - [상암/DMC 북촌손만두 (2018)](https://blog.naver.com/w_namu/222498418734)
+- [상암/DMC 상암곱창구이 (2014)](https://blog.naver.com/w_namu/222802750291)
 - [선릉/역삼/대치 맛자랑 (2013)](https://blog.naver.com/w_namu/222516064371)
 - [선릉/역삼/대치 아야커피 (2021)](https://blog.naver.com/w_namu/222622007482)
 - [신세계백화점 본점 마쯔야 (2022)](https://blog.naver.com/w_namu/222853985095)
