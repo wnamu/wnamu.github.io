@@ -23,6 +23,7 @@
 - [Le Méridien Seoul - Balcony Suite (2020)](https://blog.naver.com/w_namu/222627935510)
 
 ## Singapore
+- [Mandarin Oriental, Singapore (2017)](https://blog.naver.com/w_namu/222427181809)
 - [W Singapore Sentosa Cove - Marvelous Suite (2017)](https://blog.naver.com/w_namu/222814614805)
 
 ## Taipei
