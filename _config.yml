@@ -16,14 +16,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "RETRO NAMU LOG"
+title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Gourmetraveller"
-description              : "Retro Namu Log"
+name                     : "Your Name"
+description              : "An amazing website."
 url                      : "https://wnamu.github.io"
-baseurl                  : 
-remote_theme             : mmistakes/minimal-mistakes
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -105,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gourmetraveller"
+  name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
-  location         : "Seoul, Korea"
+  bio              : "I am an **amazing** person."
+  location         : "Somewhere"
   email            :
   links:
     - label: "Email"
@@ -291,4 +290,3 @@ defaults:
       comments: # true
       share: true
       related: true
-     
